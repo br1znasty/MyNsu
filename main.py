@@ -3,7 +3,7 @@ from kivy.uix.label import Label
 from kivy.uix.button import Button
 from kivy.uix.floatlayout import FloatLayout
 
-#v 0.0.1.0
+#v 0.0.1.1
 
 class MainApp(App):
     def build(self):
